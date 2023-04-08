@@ -5,7 +5,7 @@ All contracts use two accounts, `Deploy Account` and `Resource Account`.
 `Deploy Account` is used for contract ABI, and `Resource Account` is used for keeping resources.
 :::
 
-## Mainnet
+## Mainnet dio
 ### Swap module
 Swap module is the core of DEX and AMM, the module is about swap coins, create pool, add and remove liquidity.
 * Github repo: [v1-core](https://github.com/AnimeSwap/v1-core/tree/v1.0.0)
